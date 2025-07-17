@@ -7,5 +7,5 @@
 # Team members details:
 #   1.Miruthula.S.V
 #   2.Bharat.J.L
-#   3.Janavika
+#   3.Janavika.S.B
 #   4.Dharshini.G
